@@ -15,31 +15,31 @@
   </tr>
 </table>
 
-## 💻 My Systems
+## 💻 My System
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>💥 Primary Laptop</h3>
-        <strong>ASUS ROG G14 (2025)</strong><br/>
-        <code>Ryzen AI 9 HX 370</code><br/>
-        <code>RTX 5070 Ti</code><br/>
-        <code>32GB DDR5</code><br/>
-        <code>1TB NVMe</code>
-      </td>
-      <td align="center" width="50%">
-        <h3>🖥️ Homelab Server</h3>
-        <strong>ASRock Rack B650D4U</strong><br/>
-        <code>Ryzen 5 7600</code><br/>
-        <code>RTX A3000</code><br/>
-        <code>32GB DDR5</code><br/>
-        <code>Proxmox</code>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td width="50%">
 
+### 💥 Primary Laptop
+ASUS ROG G14 (2025)
+├─ CPU: Ryzen AI 9 HX 370
+├─ GPU: RTX 5070 Ti
+├─ RAM: 32GB DDR5
+└─ Storage: 1TB NVMe
+
+</td>
+<td width="50%">
+
+### 🖥️ Homeserver
+ASRock Rack B650D4U
+├─ CPU: Ryzen 5 7600
+├─ RAM: 32GB DDR5
+├─ GPU: RTX A3000
+└─ OS: Proxmox
+</td>
+</tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/callenflynn">Portfolio</a> • 
