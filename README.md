@@ -1,4 +1,3 @@
-## Hello 👋
 <div align="center">
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+To+My+Page)
@@ -15,6 +14,24 @@
     </td>
   </tr>
 </table>
+
+## 💻My System
+Primary Laptop:
+MODEL: Asus ROG G14 (2025)
+CPU: AMD Ryzen AI 9 HX 370
+GPU: 5070 TI notebook 
+RAM: 32gb ddr5
+
+Server:
+CPU: i9-11900H
+GPU: Nvidia A3000
+RAM: 32gb ddr5
+
+
+<div align="center">
+  <a href="https://github.com/callenflynn">Portfolio</a> • 
+  <a href="https://github.com/callenflynn?tab=repositories">Repos</a>
+</div>
 <!--
 **callenflynn/callenflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
