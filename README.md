@@ -1,5 +1,5 @@
 ## Hello 👋
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Consistent+grind;Building+cool+stuff;Always+learning)
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Welcome+To+My+Page)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=callenflynn\&theme=tokyonight\&hide_border=true)
 
