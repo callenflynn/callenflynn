@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.10'
       
+      - name: Install dependencies
+        run: pip install requests
+      
       - name: Fetch latest repos and update README
         run: |
           python3 << 'EOF'
@@ -36,6 +39,7 @@ jobs:
           with open("README.md", "r") as f:
               content = f.read()
           
+          # Replace only between markers
           pattern = r'(<!-- AUTO-UPDATE-START -->).*?(<!-- AUTO-UPDATE-END -->)'
           replacement = f'\\1\n{projects}\n\\2'
           content = re.sub(pattern, replacement, content, flags=re.DOTALL)
