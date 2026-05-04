@@ -2,6 +2,8 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+To+My+Page)
 
+## 📌 Latest Projects
+
 </div>
 
 <table>
