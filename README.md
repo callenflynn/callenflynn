@@ -27,7 +27,7 @@ ASUS ROG G14 (2025)
 ├─ CPU: Ryzen AI 9 HX 370
 ├─ GPU: RTX 5070 Ti
 ├─ RAM: 32GB DDR5
-└─ Storage: 1TB NVMe
+└─ OS: Windows 11 & ArchLinux dualboot w/ Grub
 </pre>
 
 </td>
