@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Fetch latest repos and update README
+        run: |
+          python3 << 'EOF'
+          import requests
+          
+          user = "callenflynn"
+          resp = requests.get(f"https://api.github.com/users/{user}/repos?sort=updated&per_page=6")
+          repos = resp.json()
+          
+          projects = "## 📌 Latest Projects\n\n"
+          for repo in repos[:4]:
+              desc = repo['description'] or 'No description'
+              projects += f"- **[{repo['name']}]({repo['html_url']})** - {desc}\n"
+          
+          with open("README.md", "r") as f:
+              content = f.read()
+          
+          if "## 📌 Latest Projects" in content:
+              content = content.split("## 📌 Latest Projects")[0] + projects
+          else:
+              content += "\n\n" + projects
+          
+          with open("README.md", "w") as f:
+              f.write(content)
+          EOF
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'auto: update README with latest projects'
