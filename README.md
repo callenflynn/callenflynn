@@ -22,21 +22,26 @@
 <td width="50%">
 
 ### 💥 Primary Laptop
+<pre>
 ASUS ROG G14 (2025)
 ├─ CPU: Ryzen AI 9 HX 370
 ├─ GPU: RTX 5070 Ti
 ├─ RAM: 32GB DDR5
 └─ Storage: 1TB NVMe
+</pre>
 
 </td>
 <td width="50%">
 
-### 🖥️ Homeserver
+### 🖥️ Homelab Server
+<pre>
 ASRock Rack B650D4U
 ├─ CPU: Ryzen 5 7600
 ├─ RAM: 32GB DDR5
 ├─ GPU: RTX A3000
 └─ OS: Proxmox
+</pre>
+
 </td>
 </tr>
 </table>
