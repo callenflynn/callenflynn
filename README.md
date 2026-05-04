@@ -5,8 +5,8 @@
 ## 📌 Latest Projects
 
 <!-- AUTO-UPDATE-START -->
-- **[callenflynn](https://github.com/callenflynn/callenflynn)** - No description
-- **[Charch](https://github.com/callenflynn/Charch)** - No description
+- **[Charch](https://github.com/callenflynn/Charch)** - My Archlinux dotfiles on my g14, CArch
+- **[callenflynn](https://github.com/callenflynn/callenflynn)** - my bio n stuff
 - **[funni](https://github.com/callenflynn/funni)** - funni thing
 - **[cpkg](https://github.com/callenflynn/cpkg)** - my own package manager
 
