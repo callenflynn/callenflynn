@@ -5,7 +5,10 @@
 ## 📌 Latest Projects
 
 <!-- AUTO-UPDATE-START -->
-
+- **[callenflynn](https://github.com/callenflynn/callenflynn)** - No description
+- **[Charch](https://github.com/callenflynn/Charch)** - No description
+- **[funni](https://github.com/callenflynn/funni)** - funni thing
+- **[cpkg](https://github.com/callenflynn/cpkg)** - my own package manager
 
 <!-- AUTO-UPDATE-END -->
 
