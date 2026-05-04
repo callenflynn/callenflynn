@@ -4,6 +4,12 @@
 
 ## 📌 Latest Projects
 
+<!-- AUTO-UPDATE-START -->
+
+
+<!-- AUTO-UPDATE-END -->
+
+## 📈Stats
 </div>
 
 <table>
