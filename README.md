@@ -23,11 +23,11 @@
 
 ### 📌 Latest Projects
 
-<ul dir="auto" style="list-style-type: none;">
-  <li>✦ <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
+<ul dir="auto" style="list-style-type: none; padding: 0;">
+  <li> <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
+  <li> <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
+  <li> <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
+  <li> <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
 </ul>
 
 ---
@@ -53,8 +53,8 @@
 ---
 
 ### 💻 System Environment
-</div>
-```bash
+
+<pre align="left">
 cal@CArch
 ---------
 OS: Arch Linux / Windows 11 (Dualboot)
@@ -72,6 +72,13 @@ Model: ASRock Rack B650D4U
 CPU: Ryzen 5 7600
 GPU: NVIDIA RTX A3000
 OS: Proxmox VE
+</pre>
+
+---
+
+[Portfolio](https://github.com/callenflynn) • [Website](https://callen.is-a.dev/) • [Repositories](https://github.com/callenflynn?tab=repositories)
+
+</div>
 <!--
 **callenflynn/callenflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
