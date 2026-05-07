@@ -24,10 +24,10 @@
 ### 📌 Latest Projects
 
 <ul dir="auto" style="list-style-type: none; padding: 0;">
-  <li> <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
-  <li> <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
-  <li> <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
-  <li> <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
 </ul>
 
 ---
@@ -43,6 +43,8 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+<br>
+
 **Infra & DevOps**
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,33 +54,33 @@
 
 ---
 
-### 💻 System Environment
+### 💻 System Specs
 
-<pre align="left">
-cal@CArch
----------
-OS: Arch Linux / Windows 11 (Dualboot)
-WM: Hyprland (Wayland)
-Shell: Zsh / Bash
-
-[ Primary Laptop ]
-Model: ASUS ROG Zephyrus G14 (2025)
-CPU: Ryzen AI 9 HX 370
-GPU: NVIDIA RTX 5070 Ti
-RAM: 32GB DDR5
-
-[ Homelab Server ]
-Model: ASRock Rack B650D4U
-CPU: Ryzen 5 7600
-GPU: NVIDIA RTX A3000
-OS: Proxmox VE
-</pre>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>🚀 Primary Laptop</b><br>
+      ASUS ROG Zephyrus G14<br>
+      Ryzen AI 9 HX 370<br>
+      RTX 5070 Ti • 32GB DDR5<br>
+      Arch Linux / Windows 11
+    </td>
+    <td width="50%" align="center">
+      <b>🖥️ Homelab Server</b><br>
+      ASRock Rack B650D4U<br>
+      Ryzen 5 7600<br>
+      NVIDIA RTX A3000<br>
+      Proxmox VE
+    </td>
+  </tr>
+</table>
 
 ---
 
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.is-a.dev/) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
 </div>
+
 <!--
 **callenflynn/callenflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
