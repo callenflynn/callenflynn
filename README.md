@@ -7,7 +7,7 @@
 ---
 
 ### 📈 Activity & Stats
-<!-- Consistent Tokyo Night Theme for both widgets -->
+
 <table>
   <tr>
     <td width="50%">
@@ -22,17 +22,20 @@
 ---
 
 ### 📌 Latest Projects
-<!-- Clean, spaced list with custom bullet points -->
-✦ **[callenflynn](https://github.com/callenflynn/callenflynn)** — Personal bio and profile hub.
-✦ **[Charch](https://github.com/callenflynn/Charch)** — Arch Linux dotfiles for the G14 setup.
-✦ **[cpkg](https://github.com/callenflynn/cpkg)** — A custom, lightweight package manager.
-✦ **[funni](https://github.com/callenflynn/funni)** — Experiments and miscellaneous projects.
+
+<ul dir="auto" style="list-style-type: none;">
+  <li>✦ <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
+  <li>✦ <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
+</ul>
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Game Dev**
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,6 +44,7 @@
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 **Infra & DevOps**
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -68,7 +72,6 @@ Model: ASRock Rack B650D4U
 CPU: Ryzen 5 7600
 GPU: NVIDIA RTX A3000
 OS: Proxmox VE
-```
 <!--
 **callenflynn/callenflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
