@@ -24,10 +24,10 @@
 ### 📌 Latest Projects
 
 <ul dir="auto" style="list-style-type: none; padding: 0;">
-  <li>✦ <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
-  <li>✦ <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
+  <li> <b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — Personal bio and profile hub.</li>
+  <li> <b><a href="https://github.com/callenflynn/Charch">Charch</a></b> — Arch Linux dotfiles for the G14 setup.</li>
+  <li> <b><a href="https://github.com/callenflynn/cpkg">cpkg</a></b> — A custom, lightweight package manager.</li>
+  <li> <b><a href="https://github.com/callenflynn/funni">funni</a></b> — Experiments and miscellaneous projects.</li>
 </ul>
 
 ---
