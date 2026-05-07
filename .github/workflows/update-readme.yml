@@ -27,7 +27,7 @@ jobs:
       
       - name: Fetch latest repos and update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           python3 << 'EOF'
           import requests
