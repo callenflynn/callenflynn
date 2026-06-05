@@ -74,8 +74,7 @@
     </td>
     <td width="50%" align="center">
       <b>🖥️ Homelab Server</b><br>
-      ASRock Rack B650D4U<br>
-      Ryzen 5 7600<br>
+      intel i9 11th gen<br>
       NVIDIA RTX A3000<br>
       Proxmox VE
     </td>
