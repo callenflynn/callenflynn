@@ -10,16 +10,15 @@ env:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # Fix 1: You must pass the token to checkout so the commit step has permission to push back
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          ref: ${{ github.head_ref }}
 
       - uses: actions/setup-python@v5
         with:
@@ -38,7 +37,12 @@ jobs:
           import os
 
           token = os.getenv("GITHUB_TOKEN")
-
+          # Use standard Bearer token header for authorization
+          headers = {"Authorization": f"Bearer {token}"} if token else {}
+          
+          # visibility=all pulls both public and private repos
+          url = "https://api.github.com/user/repos?sort=updated&per_page=50&visibility=all"
+          resp = requests.get(url, headers=headers)
           
           if resp.status_code != 200:
               print(f"Error fetching repos: {resp.status_code} - {resp.text}")
@@ -46,6 +50,7 @@ jobs:
           
           repos = resp.json()
           
+          # Filter out forks so it only grabs original repositories
           filtered_repos = [r for r in repos if not r['fork']]
           
           projects = ""
@@ -56,14 +61,14 @@ jobs:
           with open("README.md", "r") as f:
               content = f.read()
           
-          pattern = r'().*?()'
+          pattern = r'(<!-- AUTO-UPDATE-START -->).*?(<!-- AUTO-UPDATE-END -->)'
           replacement = f'\\1\n{projects}\\2'
           content = re.sub(pattern, replacement, content, flags=re.DOTALL)
           
           with open("README.md", "w") as f:
               f.write(content)
           
-          print("README updated with latest projects")
+          print("✓ README updated with latest projects")
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
