@@ -37,11 +37,13 @@ jobs:
           import os
 
           token = os.getenv("GITHUB_TOKEN")
-          # Use standard Bearer token header for authorization
           headers = {"Authorization": f"Bearer {token}"} if token else {}
           
-          # visibility=all pulls both public and private repos
-          url = "https://api.github.com/user/repos?sort=updated&per_page=50&visibility=all"
+          # Crucial changes here: 
+          # 1. sort=pushed (Tracks actual code modifications)
+          # 2. affiliation=owner (Ensures only your repos are returned)
+          # 3. visibility=all (Fetches private + public)
+          url = "https://api.github.com/user/repos?sort=pushed&per_page=20&visibility=all&affiliation=owner"
           resp = requests.get(url, headers=headers)
           
           if resp.status_code != 200:
@@ -50,25 +52,25 @@ jobs:
           
           repos = resp.json()
           
-          # Filter out forks so it only grabs original repositories
+          # Keep original code constraint (exclude forks)
           filtered_repos = [r for r in repos if not r['fork']]
           
           projects = ""
           for repo in filtered_repos[:4]:
               desc = repo['description'] or 'No description'
-              projects += f"- **[{repo['full_name']}]({repo['html_url']})** - {desc}\n"
+              projects += f"- **[{repo['name']}]({repo['html_url']})** - {desc}\n"
           
           with open("README.md", "r") as f:
               content = f.read()
           
-          pattern = r'(<!-- AUTO-UPDATE-START -->).*?(<!-- AUTO-UPDATE-END -->)'
+          pattern = r'().*?()'
           replacement = f'\\1\n{projects}\\2'
           content = re.sub(pattern, replacement, content, flags=re.DOTALL)
           
           with open("README.md", "w") as f:
               f.write(content)
           
-          print("✓ README updated with latest projects")
+          print("✓ README updated with accurate pushed projects")
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
