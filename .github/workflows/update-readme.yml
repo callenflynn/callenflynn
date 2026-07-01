@@ -38,7 +38,6 @@ jobs:
           token = os.getenv("GITHUB_TOKEN")
           headers = {"Authorization": f"Bearer {token}"} if token else {}
           
-          # Hits your recent pushes, includes private repos, ignores forks
           url = "https://api.github.com/user/repos?sort=pushed&per_page=20&visibility=all&affiliation=owner"
           resp = requests.get(url, headers=headers)
           
@@ -49,32 +48,50 @@ jobs:
           repos = resp.json()
           filtered_repos = [r for r in repos if not r['fork']]
           
-          # Match your clean HTML format perfectly
-          projects = '<ul dir="auto" style="list-style-type: none; padding: 0;">\n'
+          # Build your HTML format list block
+          new_lines = [
+              '\n',
+              '<ul dir="auto" style="list-style-type: none; padding: 0;">\n'
+          ]
           for repo in filtered_repos[:4]:
               desc = repo['description'] or 'No description.'
-              projects += f'  <li> <b><a href="{repo["html_url"]}">{repo["name"]}</a></b> — {desc}</li>\n'
-          projects += '</ul>\n'
+              new_lines.append(f'  <li> <b><a href="{repo["html_url"]}">{repo["name"]}</a></b> — {desc}</li>\n')
+          new_lines.append('</ul>\n')
+          new_lines.append('\n')
           
-          start_tag = ""
-          end_tag = ""
-          
+          # Read the current file line by line
           with open("README.md", "r") as f:
-              content = f.read()
+              lines = f.readlines()
           
-          if start_tag in content and end_tag in content:
-              before, _, remainder = content.partition(start_tag)
-              _, _, after = remainder.partition(end_tag)
+          output = []
+          inside_target_zone = False
+          found_start = False
+          found_end = False
+          
+          # Line-by-line replacement engine
+          for line in lines:
+              if "" in line:
+                  inside_target_zone = True
+                  found_start = True
+                  output.extend(new_lines) # Drop the entire fresh list block here
+                  continue
+              if "" in line:
+                  inside_target_zone = False
+                  found_end = True
+                  continue
               
-              # Safely stitch the profile back together without losing anything
-              new_content = f"{before}{start_tag}\n{projects}{end_tag}{after}"
-              
-              with open("README.md", "w") as f:
-                  f.write(new_content)
-              print("✓ README successfully updated with private & public repos!")
-          else:
-              print("Error: Could not find the HTML comment tags in your README.md!")
+              # If we are not inside the old list zone, preserve the line
+              if not inside_target_zone:
+                  output.append(line)
+          
+          if not (found_start and found_end):
+              print("Error: Could not find the comment tags in your README.md file!")
               exit(1)
+              
+          with open("README.md", "w") as f:
+              f.writelines(output)
+              
+          print("README successfully updated line by line.")
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
