@@ -33,16 +33,12 @@ jobs:
         run: |
           python3 << 'EOF'
           import requests
-          import re
           import os
 
           token = os.getenv("GITHUB_TOKEN")
           headers = {"Authorization": f"Bearer {token}"} if token else {}
           
-          # Crucial changes here: 
-          # 1. sort=pushed (Tracks actual code modifications)
-          # 2. affiliation=owner (Ensures only your repos are returned)
-          # 3. visibility=all (Fetches private + public)
+          # Hits your recent pushes, includes private repos, ignores forks
           url = "https://api.github.com/user/repos?sort=pushed&per_page=20&visibility=all&affiliation=owner"
           resp = requests.get(url, headers=headers)
           
@@ -51,26 +47,34 @@ jobs:
               exit(1)
           
           repos = resp.json()
-          
-          # Keep original code constraint (exclude forks)
           filtered_repos = [r for r in repos if not r['fork']]
           
-          projects = ""
+          # Match your clean HTML format perfectly
+          projects = '<ul dir="auto" style="list-style-type: none; padding: 0;">\n'
           for repo in filtered_repos[:4]:
-              desc = repo['description'] or 'No description'
-              projects += f"- **[{repo['name']}]({repo['html_url']})** - {desc}\n"
+              desc = repo['description'] or 'No description.'
+              projects += f'  <li> <b><a href="{repo["html_url"]}">{repo["name"]}</a></b> — {desc}</li>\n'
+          projects += '</ul>\n'
+          
+          start_tag = ""
+          end_tag = ""
           
           with open("README.md", "r") as f:
               content = f.read()
           
-          pattern = r'().*?()'
-          replacement = f'\\1\n{projects}\\2'
-          content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-          
-          with open("README.md", "w") as f:
-              f.write(content)
-          
-          print("✓ README updated with accurate pushed projects")
+          if start_tag in content and end_tag in content:
+              before, _, remainder = content.partition(start_tag)
+              _, _, after = remainder.partition(end_tag)
+              
+              # Safely stitch the profile back together without losing anything
+              new_content = f"{before}{start_tag}\n{projects}{end_tag}{after}"
+              
+              with open("README.md", "w") as f:
+                  f.write(new_content)
+              print("✓ README successfully updated with private & public repos!")
+          else:
+              print("Error: Could not find the HTML comment tags in your README.md!")
+              exit(1)
           EOF
       
       - uses: stefanzweifel/git-auto-commit-action@v5
