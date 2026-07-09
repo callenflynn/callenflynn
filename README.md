@@ -25,9 +25,9 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
+  <li><b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — my bio n stuff</li>
   <li><b><a href="https://github.com/callenflynn/CArch">CArch</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
-  <li><b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — my bio n stuff</li>
   <li><b><a href="https://github.com/callenflynn/joe">joe</a></b> — No description.</li>
 </ul>
 <!-- REPOS_END -->
