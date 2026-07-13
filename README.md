@@ -25,10 +25,10 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
-  <li><b><a href="https://github.com/callenflynn/n8n">n8n</a></b> — No description.</li>
-  <li><b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — my bio n stuff</li>
+  <li><b><a href="https://github.com/callenflynn/gpt-test">gpt-test</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
-  <li><b><a href="https://github.com/callenflynn/concord">concord</a></b> — my mc server</li>
+  <li><b><a href="https://github.com/callenflynn/adguardhomeallowlist">adguardhomeallowlist</a></b> — No description.</li>
+  <li><b><a href="https://github.com/callenflynn/callenflynn">callenflynn</a></b> — my bio n stuff</li>
 </ul>
 <!-- REPOS_END -->
 
