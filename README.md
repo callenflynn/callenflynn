@@ -25,9 +25,9 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
+  <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
   <li><b><a href="https://github.com/callenflynn/git-started">git-started</a></b> — Git application</li>
   <li><b><a href="https://github.com/callenflynn/mc.callen.page">mc.callen.page</a></b> — New season is here!</li>
-  <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
   <li><b><a href="https://github.com/callenflynn/quack">quack</a></b> — Keep your ducks in a row</li>
 </ul>
 <!-- REPOS_END -->
