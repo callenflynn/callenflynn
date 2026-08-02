@@ -50,7 +50,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <br>
 
@@ -61,29 +60,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 
-### 💻 System Environment
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>🚀 Primary Laptop</b><br>
-      ASUS ROG Zephyrus G14<br>
-      Ryzen AI 9 HX 370<br>
-      RTX 5070 Ti • 32GB DDR5<br>
-      Arch Linux / Windows 11
-    </td>
-    <td width="50%" align="center">
-      <b>🖥️ Homelab Server</b><br>
-      intel i9 11th gen<br>
-      NVIDIA RTX A3000<br>
-      Proxmox VE
-    </td>
-  </tr>
-</table>
-
----
 
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.page) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
