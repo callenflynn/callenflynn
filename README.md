@@ -62,7 +62,7 @@
 
 
 
-[Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/?ref=github) • [Repositories](https://github.com/callenflynn?tab=repositories)
+[Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
 </div>
 
