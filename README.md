@@ -25,8 +25,8 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
-  <li><b><a href="https://github.com/callenflynn/fedora-script">fedora-script</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
+  <li><b><a href="https://github.com/callenflynn/fedora-script">fedora-script</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/adguardhomeallowlist">adguardhomeallowlist</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/clixos">clixos</a></b> — No description.</li>
 </ul>
