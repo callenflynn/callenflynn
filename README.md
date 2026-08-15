@@ -25,9 +25,9 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
+  <li><b><a href="https://github.com/callenflynn/git-started">git-started</a></b> — Git application</li>
   <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
   <li><b><a href="https://github.com/callenflynn/CalOS">CalOS</a></b> — Bluefin based immutable atomic linux distrobution</li>
-  <li><b><a href="https://github.com/callenflynn/git-started">git-started</a></b> — Git application</li>
   <li><b><a href="https://github.com/callenflynn/fedora-script">fedora-script</a></b> — No description.</li>
 </ul>
 <!-- REPOS_END -->
