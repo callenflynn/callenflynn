@@ -25,10 +25,10 @@
 
 <!-- REPOS_START -->
 <ul dir="auto" style="list-style-type: none; padding: 0;">
+  <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
   <li><b><a href="https://github.com/callenflynn/nimcalc">nimcalc</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/Team-SharkSuit">Team-SharkSuit</a></b> — No description.</li>
   <li><b><a href="https://github.com/callenflynn/archinstall">archinstall</a></b> — Arch Linux installer - guided, templates etc.</li>
-  <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
 </ul>
 <!-- REPOS_END -->
 
