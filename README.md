@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌌 callenflynn
+# callenflynn
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland)
 
 ---
 
-### 📈 Activity & Stats
+### Activity & Stats
 
 <table>
   <tr>
@@ -25,13 +25,29 @@
 ### 📌 Latest Projects
 
 <!-- REPOS_START -->
-<div dir="auto" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <a href="https://github.com/callenflynn/archinstall" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>archinstall</b></a>
-  <a href="https://github.com/callenflynn/website" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>website</b></a>
-  <a href="https://github.com/callenflynn/nimcalc" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>nimcalc</b></a>
-  <a href="https://github.com/callenflynn/Team-SharkSuit" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>Team-SharkSuit</b></a>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  [![archinstall](https://svg.bookmark.style/api?url=https://github.com/callenflynn/archinstall&mode=dark&style=horizontal)](https://github.com/callenflynn/archinstall)
+  [![website](https://svg.bookmark.style/api?url=https://github.com/callenflynn/website&mode=dark&style=horizontal)](https://github.com/callenflynn/website)
+  [![nimcalc](https://svg.bookmark.style/api?url=https://github.com/callenflynn/nimcalc&mode=dark&style=horizontal)](https://github.com/callenflynn/nimcalc)
+  [![Team-SharkSuit](https://svg.bookmark.style/api?url=https://github.com/callenflynn/Team-SharkSuit&mode=dark&style=horizontal)](https://github.com/callenflynn/Team-SharkSuit)
 </div>
 <!-- REPOS_END -->
+
+---
+
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=callenflynn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
+
+### Visitors
+
+[![Visitor Count](https://profile-counter.glitch.me/callenflynn/count.svg)](https://github.com/callenflynn)
+
 
 ---
 

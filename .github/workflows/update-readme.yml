@@ -58,12 +58,12 @@ jobs:
           ]
 
           new_lines = []
-          new_lines.append('<div dir="auto" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">\n')
+          new_lines.append('<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">\n')
 
           for repo in filtered_repos[:4]:
               name = repo.get("name")
               url = repo.get("html_url")
-              new_lines.append(f'  <a href="{url}" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>{name}</b></a>\n')
+              new_lines.append(f'  [![{name}](https://svg.bookmark.style/api?url={url}&mode=dark&style=horizontal)]({url})\n')
 
           new_lines.append('</div>\n')
 
