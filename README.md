@@ -1,14 +1,19 @@
 <div align="center">
 
-# 🌌 callenflynn<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=380&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland" width="380"/>
+# 🌌 callenflynn
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C4A7E7&center=true&vCenter=true&width=380&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland" width="380" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ### 📈 Activity & Stats
 
-<img src="https://streak-stats.demolab.com?user=callenflynn&theme=git-dark&hide_border=true" alt="GitHub Streak" width="320"/>
-<img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=git-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=callenflynn&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="320"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
+</div>
 
 ---
 
@@ -25,27 +30,26 @@
 
 ---
 
-**Languages & Game Dev**
-<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### 🛠️ Tech Stack
 
-**Infra & DevOps**
-<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**Languages & Game Dev**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<br>
+**Infra & DevOps**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
 <div align="center">
 
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
 </div>
-</div>
-
 <!--
 **callenflynn/callenflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
