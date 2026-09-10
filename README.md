@@ -1,12 +1,12 @@
 <div align="center">
 
-# callenflynn
+# 🌌 callenflynn
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland)
 
 ---
 
-### Activity & Stats
+### 📈 Activity & Stats
 
 <table>
   <tr>
@@ -35,18 +35,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
 
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=callenflynn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=callenflynn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
 
+### 👀 Visitors
 
-### Visitors
-
-[![Visitor Count](https://profile-counter.glitch.me/callenflynn/count.svg)](https://github.com/callenflynn)
+[![Visitor Count](https://gh-visitor-counter.vercel.app/?username=callenflynn&theme=dark)](https://github.com/callenflynn)
 
 
 ---
