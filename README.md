@@ -20,8 +20,8 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <a href="https://github.com/callenflynn/archinstall"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=archinstall&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="archinstall" /></a>
   <a href="https://github.com/callenflynn/website"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=website&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="website" /></a>
+  <a href="https://github.com/callenflynn/archinstall"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=archinstall&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="archinstall" /></a>
   <a href="https://github.com/callenflynn/nimcalc"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=nimcalc&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="nimcalc" /></a>
   <a href="https://github.com/callenflynn/Team-SharkSuit"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Team-SharkSuit&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Team-SharkSuit" /></a>
 </div>
