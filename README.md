@@ -15,11 +15,11 @@
 ### 📌 Latest Projects
 
 <!-- REPOS_START -->
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  [![archinstall](https://svg.bookmark.style/api?url=https://github.com/callenflynn/archinstall&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/archinstall)
-  [![website](https://svg.bookmark.style/api?url=https://github.com/callenflynn/website&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/website)
-  [![nimcalc](https://svg.bookmark.style/api?url=https://github.com/callenflynn/nimcalc&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/nimcalc)
-  [![Team-SharkSuit](https://svg.bookmark.style/api?url=https://github.com/callenflynn/Team-SharkSuit&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/Team-SharkSuit)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <a href="https://github.com/callenflynn/archinstall"><img src="https://svg.bookmark.style/api?url=https://github.com/callenflynn/archinstall&mode=dark&style=horizontal" alt="archinstall" /></a>
+  <a href="https://github.com/callenflynn/website"><img src="https://svg.bookmark.style/api?url=https://github.com/callenflynn/website&mode=dark&style=horizontal" alt="website" /></a>
+  <a href="https://github.com/callenflynn/nimcalc"><img src="https://svg.bookmark.style/api?url=https://github.com/callenflynn/nimcalc&mode=dark&style=horizontal" alt="nimcalc" /></a>
+  <a href="https://github.com/callenflynn/Team-SharkSuit"><img src="https://svg.bookmark.style/api?url=https://github.com/callenflynn/Team-SharkSuit&mode=dark&style=horizontal" alt="Team-SharkSuit" /></a>
 </div>
 <!-- REPOS_END -->
 
