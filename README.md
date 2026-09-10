@@ -39,8 +39,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 <br>
+<div align="center">
+
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
+</div>
 </div>
 
 <!--
