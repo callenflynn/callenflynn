@@ -2,8 +2,6 @@
 
 # 🌌 callenflynn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=380&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland" width="380" alt="Typing SVG" />
-
 </div>
 
 ---
