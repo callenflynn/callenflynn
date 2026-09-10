@@ -63,7 +63,8 @@ jobs:
           for repo in filtered_repos[:4]:
               name = repo.get("name")
               url = repo.get("html_url")
-              new_lines.append(f'  [![{name}](https://svg.bookmark.style/api?url={url}&mode=dark&style=horizontal)]({url})\n')
+              img_src = f"https://svg.bookmark.style/api?url={url}&mode=dark&style=horizontal"
+              new_lines.append(f'  <a href="{url}"><img src="{img_src}" alt="{name}" /></a>\n')
 
           new_lines.append('</div>\n')
 
