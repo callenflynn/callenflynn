@@ -63,7 +63,8 @@ jobs:
           for repo in filtered_repos[:4]:
               name = repo.get("name")
               url = repo.get("html_url")
-              img_src = f"https://svg.bookmark.style/api?url={url}&mode=dark&style=horizontal"
+              # Theme parameters applied: #050505 background, #FF3B00 title/icons, #E0E0E0 text
+              img_src = f"https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo={name}&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d"
               new_lines.append(f'  <a href="{url}"><img src="{img_src}" alt="{name}" /></a>\n')
 
           new_lines.append('</div>\n')
