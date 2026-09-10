@@ -1,73 +1,44 @@
 <div align="center">
 
-# 🌌 callenflynn
-
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland)
+# 🌌 callenflynn<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=380&lines=Welcome+To+My+Page;Building+with+C%23+and+Python;Managing+the+Homelab;Arch+Linux+%2B+Hyprland" width="380"/>
 
 ---
 
 ### 📈 Activity & Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=callenflynn&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
-
+<img src="https://streak-stats.demolab.com?user=callenflynn&theme=radical&hide_border=true" alt="GitHub Streak" width="320"/>
+<img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
 
 ---
 
 ### 📌 Latest Projects
 
 <!-- REPOS_START -->
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  [![archinstall](https://svg.bookmark.style/api?url=https://github.com/callenflynn/archinstall&mode=dark&style=horizontal)](https://github.com/callenflynn/archinstall)
-  [![website](https://svg.bookmark.style/api?url=https://github.com/callenflynn/website&mode=dark&style=horizontal)](https://github.com/callenflynn/website)
-  [![nimcalc](https://svg.bookmark.style/api?url=https://github.com/callenflynn/nimcalc&mode=dark&style=horizontal)](https://github.com/callenflynn/nimcalc)
-  [![Team-SharkSuit](https://svg.bookmark.style/api?url=https://github.com/callenflynn/Team-SharkSuit&mode=dark&style=horizontal)](https://github.com/callenflynn/Team-SharkSuit)
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+  [![archinstall](https://svg.bookmark.style/api?url=https://github.com/callenflynn/archinstall&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/archinstall)
+  [![website](https://svg.bookmark.style/api?url=https://github.com/callenflynn/website&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/website)
+  [![nimcalc](https://svg.bookmark.style/api?url=https://github.com/callenflynn/nimcalc&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/nimcalc)
+  [![Team-SharkSuit](https://svg.bookmark.style/api?url=https://github.com/callenflynn/Team-SharkSuit&mode=dark&style=horizontal&width=240)](https://github.com/callenflynn/Team-SharkSuit)
 </div>
 <!-- REPOS_END -->
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://trophy.ryglcloud.net/?username=callenflynn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
-### 👀 Visitors
-
-[![Visitor Count](https://gh-visitor-counter.vercel.app/?username=callenflynn&theme=dark)](https://github.com/callenflynn)
-
-
----
-
 **Languages & Game Dev**
-learning:
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-<br>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 **Infra & DevOps**
 <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-
+<br>
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/) • [Repositories](https://github.com/callenflynn?tab=repositories)
 
 </div>
