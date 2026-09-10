@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=callenflynn&theme=git-dark&hide_border=true" alt="GitHub Streak" width="320"/>
-  <img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=git-dark&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&bg_color=000000&title_color=f0883e&text_color=c9d1d9&icon_color=f0883e&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
 </div>
 
 ---
