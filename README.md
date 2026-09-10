@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=callenflynn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=callenflynn&theme=radical&hide_border=true" alt="GitHub Streak"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -25,12 +25,12 @@
 ### 📌 Latest Projects
 
 <!-- REPOS_START -->
-<ul dir="auto" style="list-style-type: none; padding: 0;">
-  <li><b><a href="https://github.com/callenflynn/archinstall">archinstall</a></b> — Arch Linux installer - guided, templates etc.</li>
-  <li><b><a href="https://github.com/callenflynn/website">website</a></b> — my website</li>
-  <li><b><a href="https://github.com/callenflynn/nimcalc">nimcalc</a></b> — No description.</li>
-  <li><b><a href="https://github.com/callenflynn/Team-SharkSuit">Team-SharkSuit</a></b> — No description.</li>
-</ul>
+<div dir="auto" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <a href="https://github.com/callenflynn/archinstall" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>archinstall</b></a>
+  <a href="https://github.com/callenflynn/website" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>website</b></a>
+  <a href="https://github.com/callenflynn/nimcalc" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>nimcalc</b></a>
+  <a href="https://github.com/callenflynn/Team-SharkSuit" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>Team-SharkSuit</b></a>
+</div>
 <!-- REPOS_END -->
 
 ---
@@ -42,10 +42,8 @@ learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <br>
-
 
 
 **Infra & DevOps**
@@ -54,7 +52,6 @@ learning:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 
 [Portfolio](https://github.com/callenflynn) • [Website](https://callen.page/) • [Repositories](https://github.com/callenflynn?tab=repositories)
@@ -66,10 +63,10 @@ learning:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...

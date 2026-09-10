@@ -58,15 +58,14 @@ jobs:
           ]
 
           new_lines = []
-          new_lines.append('<ul dir="auto" style="list-style-type: none; padding: 0;">\n')
+          new_lines.append('<div dir="auto" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">\n')
 
           for repo in filtered_repos[:4]:
               name = repo.get("name")
               url = repo.get("html_url")
-              desc = repo.get("description") or "No description."
-              new_lines.append(f'  <li><b><a href="{url}">{name}</a></b> — {desc}</li>\n')
+              new_lines.append(f'  <a href="{url}" style="background: #1a1a2e; padding: 10px 16px; border-radius: 10px; text-decoration: none; color: #c5c6c7; border: 1px solid #333; transition: all 0.2s;">✦ <b>{name}</b></a>\n')
 
-          new_lines.append('</ul>\n')
+          new_lines.append('</div>\n')
 
           with open("README.md", "r", encoding="utf-8") as f:
               lines = f.readlines()
