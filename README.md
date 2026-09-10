@@ -14,10 +14,11 @@
       <img src="https://streak-stats.demolab.com?user=callenflynn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=callenflynn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
