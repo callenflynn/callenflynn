@@ -11,8 +11,9 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=callenflynn&theme=git-dark&hide_border=true" alt="GitHub Streak" width="320"/>
-  <img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&bg_color=000000&title_color=f0883e&text_color=c9d1d9&icon_color=f0883e&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
+  <img src="https://streak-stats.demolab.com?user=callenflynn&background=050505&border=050505&stroke=30363d&ring=FF3B00&fire=FF3B00&currStreakNum=FF3B00&sideNums=FF3B00&currStreakLabel=E0E0E0&sideLabels=E0E0E0&dates=8b949e&hide_border=true" alt="GitHub Streak" width="320"/>
+
+  <img src="https://gh-readme-stats.vercel.app/api?username=callenflynn&show_icons=true&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&hide_border=true&count_private=true" alt="GitHub Stats" width="320"/>
 </div>
 
 ---
