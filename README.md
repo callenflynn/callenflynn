@@ -20,10 +20,10 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <a href="https://github.com/callenflynn/SlimeLauncher"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=SlimeLauncher&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="SlimeLauncher" /></a>
   <a href="https://github.com/callenflynn/bigCArch"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=bigCArch&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="bigCArch" /></a>
   <a href="https://github.com/callenflynn/quack"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=quack&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="quack" /></a>
   <a href="https://github.com/callenflynn/py-serve"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=py-serve&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="py-serve" /></a>
-  <a href="https://github.com/callenflynn/website"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=website&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="website" /></a>
 </div>
 <!-- REPOS_END -->
 
