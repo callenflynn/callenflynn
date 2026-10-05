@@ -20,8 +20,8 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <a href="https://github.com/callenflynn/Typist"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Typist&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Typist" /></a>
   <a href="https://github.com/callenflynn/bigCArch"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=bigCArch&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="bigCArch" /></a>
+  <a href="https://github.com/callenflynn/Typist"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Typist&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Typist" /></a>
   <a href="https://github.com/callenflynn/Leader"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Leader&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Leader" /></a>
   <a href="https://github.com/callenflynn/SlimeLauncher"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=SlimeLauncher&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="SlimeLauncher" /></a>
 </div>
