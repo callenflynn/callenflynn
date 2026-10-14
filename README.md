@@ -20,10 +20,10 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <a href="https://github.com/callenflynn/quack"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=quack&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="quack" /></a>
   <a href="https://github.com/callenflynn/funni"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=funni&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="funni" /></a>
   <a href="https://github.com/callenflynn/python-examplelib"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=python-examplelib&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="python-examplelib" /></a>
   <a href="https://github.com/callenflynn/website"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=website&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="website" /></a>
-  <a href="https://github.com/callenflynn/Leader"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Leader&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Leader" /></a>
 </div>
 <!-- REPOS_END -->
 
