@@ -20,10 +20,10 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <a href="https://github.com/callenflynn/Remy"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Remy&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Remy" /></a>
+  <a href="https://github.com/callenflynn/Remy-Mini-01"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Remy-Mini-01&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Remy-Mini-01" /></a>
   <a href="https://github.com/callenflynn/Rusty"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Rusty&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Rusty" /></a>
   <a href="https://github.com/callenflynn/website"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=website&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="website" /></a>
-  <a href="https://github.com/callenflynn/Remy"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Remy&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Remy" /></a>
-  <a href="https://github.com/callenflynn/AgentKit"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=AgentKit&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="AgentKit" /></a>
 </div>
 <!-- REPOS_END -->
 
