@@ -20,10 +20,10 @@
 
 <!-- REPOS_START -->
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <a href="https://github.com/callenflynn/AgentKit"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=AgentKit&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="AgentKit" /></a>
   <a href="https://github.com/callenflynn/Cubix"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Cubix&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Cubix" /></a>
   <a href="https://github.com/callenflynn/python-examplelib"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=python-examplelib&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="python-examplelib" /></a>
   <a href="https://github.com/callenflynn/Typist"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=Typist&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="Typist" /></a>
-  <a href="https://github.com/callenflynn/AgentKit"><img src="https://gh-readme-stats.vercel.app/api/pin/?username=callenflynn&repo=AgentKit&bg_color=050505&title_color=FF3B00&text_color=E0E0E0&icon_color=FF3B00&border_color=30363d" alt="AgentKit" /></a>
 </div>
 <!-- REPOS_END -->
 
